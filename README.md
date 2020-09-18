@@ -1,2 +1,2 @@
 # BIG-DATA-ANALYTICS
-to make our city green alternatively our world clean.
+Mission is to make our city greenery alternatively our world clean.
