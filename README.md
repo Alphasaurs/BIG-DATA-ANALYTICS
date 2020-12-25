@@ -1,2 +1,2 @@
 # Windsoul
-Big data analytics 
+Big data analytics.
